@@ -20,11 +20,9 @@
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
----
-**Mobile And Web Developer** &#12299;_Wuth Flutter And React Native (Mobile Dev), Also with Laravel (Web Dev)_
 
-<br/>
-**Digital Artist & Creator** &#12299;_specialised in neo-noir pixel art animations and 8bit-ish art_
+
+**Mobile And Web Developer** &#12299;_Wuth Flutter And React Native (Mobile Dev), Also with Laravel (Web Dev)_
 
 ---
 
