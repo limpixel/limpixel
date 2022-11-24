@@ -2,6 +2,8 @@
 
 > I am a Frontend Developer
 
+**Mobile And Web Developer** &#12299;_Wuth Flutter And React Native (Mobile Dev), Also with Laravel (Web Dev)_
+
 ---
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
@@ -22,7 +24,7 @@
 
 
 
-**Mobile And Web Developer** &#12299;_Wuth Flutter And React Native (Mobile Dev), Also with Laravel (Web Dev)_
+
 
 ---
 
