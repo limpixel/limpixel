@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif" alt="Contoh Gambar" style="width:100%; object-fit:cover">
 </div>
 
-<h1 align="center">Hi 👋, I'm Abdul Halim</h1>
+<h1 align="center">Hi 👋, I'm Lim</h1>
 <h3 align="center">A passionate frontend developer from Indonesia 🇮🇩</h3>
 
 <p align="center"> 
