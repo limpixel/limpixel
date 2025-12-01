@@ -2,6 +2,10 @@
   <img src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif" alt="Contoh Gambar" style="width:100%; object-fit:cover">
 </div>
 
+
+
+
+
 <h1 align="center">Hi 👋, I'm Lim</h1>
 <h3 align="center">A passionate frontend developer from Indonesia 🇮🇩</h3>
 
@@ -29,7 +33,7 @@
 
 
 ### 🌐 Let's Connect:
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/limhalim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -40,4 +44,13 @@
 
 ---
 
-✨ Feel free to explore my repositories and reach out to me if you’d like to collaborate!  
+<div align="center">
+  <p>✨ Feel free to explore my repositories and reach out to me if you’d like to collaborate!  </p>
+</div>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" alt="Contoh Gambar" style="width:100%; object-fit:cover">
+</div>
+
+
+
