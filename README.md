@@ -1,17 +1,21 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif" alt="Contoh Gambar" style="width:100%; object-fit:cover">
+</div> -->
+
+<div align="center">
+  <pre color="blue">
+███╗   ███╗██╗   ██╗    ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
+████╗ ████║╚██╗ ██╔╝    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
+██╔████╔██║ ╚████╔╝     ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗  
+██║╚██╔╝██║  ╚██╔╝      ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝  
+██║ ╚═╝ ██║   ██║       ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗
+╚═╝     ╚═╝   ╚═╝       ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝══════╝╚══════╝
+                                                                            
+  </pre>
 </div>
 
 
 
-
-
-<h1 align="center">Hi 👋, I'm Lim</h1>
-<h3 align="center">A passionate frontend developer from Indonesia 🇮🇩</h3>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=limpixel&label=Profile%20views&color=0e75b6&style=flat" alt="limpixel" /> 
-</p>
 
 ---
 
