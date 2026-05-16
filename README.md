@@ -1,6 +1,6 @@
-<!-- <div align="center">
-  <img src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif" alt="Contoh Gambar" style="width:100%; object-fit:cover">
-</div> -->
+<div align="center">
+  <img src="./banner.gif" alt="Contoh Gambar" style="width:100%; object-fit:cover">
+</div>
 
 <div align="center">
   <pre color="blue">
